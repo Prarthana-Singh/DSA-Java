@@ -1,0 +1,1 @@
+print("My God everyday said to me that Prarthana after 6 month from today(05/02.2024) you got a offer letter from Google and Goldman sachs")
